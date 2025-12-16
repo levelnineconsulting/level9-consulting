@@ -8,6 +8,8 @@ and need their market entry or business unit execution to actually work.
 This GitHub profile contains **execution-first frameworks** based on real operating experience,
 not theory or consulting models.
 
+More context and applied work: https://www.level9-consulting.com
+
 ---
 
 ## Focus Areas
