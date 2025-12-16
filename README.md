@@ -70,6 +70,8 @@ These frameworks are intentionally:
 - opinionated
 - execution-focused
 
+They are intentionally opinionated and non-exhaustive.
+
 They are designed to:
 - diagnose failure points early
 - create clarity of ownership
