@@ -54,7 +54,7 @@ A hard launch gate for CEOs and boards before committing real capital.
 ### 📌 Market Entry DACH – Execution Playbook
 Common internal breakdowns that kill market entry before sales start.
 
-👉 https://github.com/stephanmoschinsky/market-entry-dach-playbook
+👉 https://github.com/levelnineconsulting/market-entry-dach-playbook
 
 Includes:
 - Failure maps
@@ -65,10 +65,7 @@ Includes:
 
 ## How to use this content
 
-These frameworks are intentionally:
-- practical
-- opinionated
-- execution-focused
+These frameworks are intentionally practical, opinionated, and execution-focused, designed to prevent silent market entry collapse. They reflect the operating models used by Level Nine Consulting and are based on real-world experience.
 
 They are intentionally opinionated and non-exhaustive.
 
@@ -77,13 +74,12 @@ They are designed to:
 - create clarity of ownership
 - prevent slow, silent market entry collapse
 
-No community support, issues, or discussions are provided.
+No community support, issues, or discussions are provided. These frameworks are designed to be applied by operational teams, not for general consultation or community feedback.
 
 ---
 
 ## Background
-
-Level Nine Consulting builds and leads market entry and execution frameworks for companies in the DACH region. 
+Level Nine Consulting not only builds and leads market entry frameworks but also assists companies with the implementation and execution of these systems in the DACH region. 
 This repository reflects proven operating systems that handle market entry breakdowns.
 
 ---
