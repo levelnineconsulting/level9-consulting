@@ -33,12 +33,12 @@ Execution before optimisation.**
 These repositories document execution systems we repeatedly use in real market entry and scaling situations.
 
 ### 1. Market Entry Failure Map (DACH)
-Common internal breakdowns that kill DACH market entry before sales start.
+Proven framework for identifying and preventing common internal breakdowns that often kill DACH market entry before sales start.
 
 → [View framework](https://github.com/levelnineconsulting/market-entry-dach-playbook/blob/main/01-market-entry-failure-map.md)
 
 ### 2. 90-Day Execution Framework
-A concrete operating system for the first 90 days after market entry or business unit launch.
+A proven operating system for the first 90 days post-market entry, developed and tested by Level Nine Consulting.
 
 → [View 90-Day Execution Framework](https://github.com/levelnineconsulting/market-entry-dach-playbook/blob/main/02-90-day-execution-framework.md)
 
