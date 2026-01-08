@@ -2,88 +2,74 @@
 
 Operator-led market entry and execution frameworks for Germany / DACH.
 
-Level Nine Consulting works with founders, CEOs, and leadership teams with proven traction —
-either in their core business or in adjacent markets —
-who need their market entry or business unit execution to actually work.
+Level Nine Consulting works with founders, CEOs, and leadership teams who already have traction —
+and need their market entry or business unit execution to hold under real operating pressure.
 
-This GitHub profile contains **execution-first frameworks** based on real operating experience,
-not theory or consulting models.
+This GitHub profile documents execution-first frameworks based on direct operating experience.
+Not theory. Not consulting models.
 
-More context and applied work: https://www.level9-consulting.com
+More context and applied work:  
+https://www.level9-consulting.com
 
 ---
 
-## Focus Areas
+## Focus
+
+Level Nine focuses on the structural and political realities of market entry execution:
 
 - Market entry into Germany / DACH
-- Ownership & decision architecture
+- Ownership and decision architecture
 - First 90 days execution systems
-- Business unit & country launch readiness
-- Execution breakdown prevention
+- Business unit and country launch readiness
+- Prevention of silent execution breakdowns
 
-Principle:
-**Ownership before strategy.  
+**Principle**
+
+Ownership before strategy.  
 Structure before scale.  
-Execution before optimisation.**
+Execution before optimisation.
 
 ---
 
 ## Framework Repositories
 
-These repositories document execution systems we repeatedly use in real market entry and scaling situations.
+The repositories published here document execution systems repeatedly used in real market entry and scaling situations.
 
-### 1. Market Entry Failure Map (DACH)
-Proven framework for identifying and preventing common internal breakdowns that often kill DACH market entry before sales start.
-
-→ [View framework](https://github.com/levelnineconsulting/market-entry-dach-playbook/blob/main/01-market-entry-failure-map.md)
-
-### 2. 90-Day Execution Framework
-A proven operating system for the first 90 days post-market entry, developed and tested by Level Nine Consulting.
-
-→ [View 90-Day Execution Framework](https://github.com/levelnineconsulting/market-entry-dach-playbook/blob/main/02-90-day-execution-framework.md)
-
-### 3. Business Unit Launch Checklist
-A hard launch gate for CEOs and boards before committing real capital.
-
-→ [View Business Unit Launch Checklist](https://github.com/levelnineconsulting/market-entry-dach-playbook/blob/main/03-business-unit-launch-checklist.md)
-
----
-
-## Framework Repositories
-
-### 📌 Market Entry DACH – Execution Playbook
-Common internal breakdowns that kill market entry before sales start.
+### Market Entry DACH – Execution Playbook
+A consolidated reference for identifying, preventing, and managing structural breakdowns in DACH market entry.
 
 👉 https://github.com/levelnineconsulting/market-entry-dach-playbook
 
 Includes:
-- Failure maps
+- Market entry failure maps
 - 90-day execution framework
-- Business unit launch checklist
+- Business unit launch and continuation gates
+- Executive warning signals for structural failure
 
 ---
 
 ## How to use this content
 
-These frameworks are intentionally practical, opinionated, and execution-focused, designed to prevent silent market entry collapse. They reflect the operating models used by Level Nine Consulting and are based on real-world experience.
-
-They are intentionally opinionated and non-exhaustive.
+These frameworks are not educational material.
 
 They are designed to:
-- diagnose failure points early
-- create clarity of ownership
-- prevent slow, silent market entry collapse
+- surface structural failure patterns early
+- clarify ownership and decision authority
+- support irreversible launch and continuation decisions
+- act as executive-level early warning systems
 
-No community support, issues, or discussions are provided. These frameworks are designed to be applied by operational teams, not for general consultation or community feedback.
+They are intentionally opinionated and incomplete.
+
+No community support, issues, or discussions are provided.
+The frameworks are published as reference material for operators and leadership teams.
 
 ---
 
 ## Background
-Level Nine Consulting not only builds and leads market entry frameworks but also assists companies with the implementation and execution of these systems in the DACH region. 
-This repository reflects proven operating systems that handle market entry breakdowns.
 
----
+Level Nine Consulting works hands-on with companies executing market entry and business unit launches in the DACH region.
 
-More context and applied work:
+The frameworks published here reflect operating systems used in live execution environments — not abstract recommendations.
+
+More context and applied work:  
 https://www.level9-consulting.com
-
